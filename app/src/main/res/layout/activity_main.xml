@@ -50,6 +50,7 @@
         android:id="@+id/sysu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:contentDescription="@string/graph"
         android:src="@mipmap/sysu"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -166,20 +167,6 @@
     android:background="@color/colorButton"
     android:textSize="18sp"
     android:textColor="@color/colorBText"/>
-
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginTop="376dp"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintLeft_toRightOf="@+id/button1"
-        android:text="@string/button2"
-        android:background="@color/colorButton"
-        android:textSize="18sp"
-        android:textColor="@color/colorBText"/>
 
 
 </android.support.constraint.ConstraintLayout>

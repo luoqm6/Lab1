@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Lab1</string>
     <string name="title">中山大学学生信息系统</string>
+    <string name="graph">sysugraph</string>
     <string name="sid">学号：</string>
     <string name="hint1">请输入学号</string>
     <string name="skey">密码：</string>
