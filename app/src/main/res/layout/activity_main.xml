@@ -103,7 +103,7 @@
         app:layout_constraintLeft_toRightOf="@+id/guideline"
         app:layout_constraintRight_toLeftOf="@+id/key2"
         app:layout_constraintTop_toBottomOf="@id/TID"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="39dp"
         app:layout_constraintHorizontal_chainStyle="spread" />
 
     <RadioGroup
